@@ -1,4 +1,3 @@
-# README.md
 
 Hi, I'm Ali Afshari 👋
 Fullstack Web Developer & Embedded Systems Engineer.
