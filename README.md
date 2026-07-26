@@ -9,5 +9,5 @@ I build web apps and design embedded devices under my brand **RaizBit**.
 
 ## 🔧 Embedded Systems
 - **Programming:** C, C++
-- **Hardware:** Arduino, STM32, Chip Programming
+- **Hardware:** STM32, Chip and baremetal Programming
 - **My Devices:** Custom electronics and embedded systems built under the brand **RaizBit**
